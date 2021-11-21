@@ -1,0 +1,76 @@
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\bin\Debug\Gestion Auberge.exe.config
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\bin\Debug\Gestion Auberge.exe
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\bin\Debug\Gestion Auberge.pdb
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\bin\Debug\Guna.UI2.dll
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.csprojAssemblyReference.cache
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.Properties.Resources.resources
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.csproj.GenerateResource.cache
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.csproj.CoreCompileInputs.cache
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.csproj.CopyComplete
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.exe
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.pdb
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.Main.resources
+C:\Users\walid\Documents\Visual Studio 2015\Projects\Gestion Auberge\Gestion Auberge\bin\Debug\Gestion Auberge.exe.config
+C:\Users\walid\Documents\Visual Studio 2015\Projects\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.exe
+C:\Users\walid\Documents\Visual Studio 2015\Projects\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.pdb
+C:\Users\walid\Documents\Visual Studio 2015\Projects\Gestion Auberge\Gestion Auberge\bin\Debug\Gestion Auberge.exe
+C:\Users\walid\Documents\Visual Studio 2015\Projects\Gestion Auberge\Gestion Auberge\bin\Debug\Gestion Auberge.pdb
+C:\Users\walid\Documents\Visual Studio 2015\Projects\Gestion Auberge\Gestion Auberge\bin\Debug\Guna.UI2.dll
+C:\Users\walid\Documents\Visual Studio 2015\Projects\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.Login_Success.resources
+C:\Users\walid\Documents\Visual Studio 2015\Projects\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.Main.resources
+C:\Users\walid\Documents\Visual Studio 2015\Projects\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.ReservationForm.resources
+C:\Users\walid\Documents\Visual Studio 2015\Projects\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.Properties.Resources.resources
+C:\Users\walid\Documents\Visual Studio 2015\Projects\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.csproj.GenerateResource.Cache
+C:\Users\walid\Documents\Visual Studio 2015\Projects\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.csprojAssemblyReference.cache
+C:\Users\walid\Documents\Visual Studio 2015\Projects\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.csproj.CoreCompileInputs.cache
+C:\Users\walid\Documents\Visual Studio 2015\Projects\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.csproj.CopyComplete
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\bin\Debug\Gestion Auberge.exe.config
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\bin\Debug\Gestion Auberge.exe
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\bin\Debug\Gestion Auberge.pdb
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\bin\Debug\Guna.UI2.dll
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.csprojAssemblyReference.cache
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.ActivityUserControl.resources
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.HomeUserControl.resources
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.Login_Success.resources
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.Main.resources
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.ReservationForm.resources
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.Properties.Resources.resources
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.csproj.GenerateResource.cache
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.csproj.CoreCompileInputs.cache
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.csproj.CopyComplete
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.exe
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.pdb
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.UsersControl.SettingsUserControl.resources
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.Fpass.Sendcode.resources
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.Fpass.Reset_password.resources
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.RestaurantUserControl.resources
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\bin\Debug\MetroFramework.Design.dll
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\bin\Debug\MetroFramework.dll
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.UsersControl.EmployeesUserControl.resources
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.CleaningUserControl.resources
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.UsersControl.addclient.resources
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.UsersControl.managerooms.resources
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.UsersControl.reservationmanage.resources
+C:\Users\walid\Desktop\Projets\pff\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.ReservationUserControl.resources
+C:\Users\HP\Desktop\ISTA 2\PFF RMAIDI WALID & SALAMA ABDELRANY\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ISTA 2\PFF RMAIDI WALID & SALAMA ABDELRANY\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.Fpass.Sendcode.resources
+C:\Users\HP\Desktop\ISTA 2\PFF RMAIDI WALID & SALAMA ABDELRANY\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.Fpass.Reset_password.resources
+C:\Users\HP\Desktop\ISTA 2\PFF RMAIDI WALID & SALAMA ABDELRANY\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.UsersControl.ActivityUserControl.resources
+C:\Users\HP\Desktop\ISTA 2\PFF RMAIDI WALID & SALAMA ABDELRANY\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.UsersControl.addclient.resources
+C:\Users\HP\Desktop\ISTA 2\PFF RMAIDI WALID & SALAMA ABDELRANY\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.CleaningUserControl.resources
+C:\Users\HP\Desktop\ISTA 2\PFF RMAIDI WALID & SALAMA ABDELRANY\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.UsersControl.EmployeesUserControl.resources
+C:\Users\HP\Desktop\ISTA 2\PFF RMAIDI WALID & SALAMA ABDELRANY\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.HomeUserControl.resources
+C:\Users\HP\Desktop\ISTA 2\PFF RMAIDI WALID & SALAMA ABDELRANY\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.Login_Success.resources
+C:\Users\HP\Desktop\ISTA 2\PFF RMAIDI WALID & SALAMA ABDELRANY\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.Main.resources
+C:\Users\HP\Desktop\ISTA 2\PFF RMAIDI WALID & SALAMA ABDELRANY\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.ReservationForm.resources
+C:\Users\HP\Desktop\ISTA 2\PFF RMAIDI WALID & SALAMA ABDELRANY\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.UsersControl.managerooms.resources
+C:\Users\HP\Desktop\ISTA 2\PFF RMAIDI WALID & SALAMA ABDELRANY\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.UsersControl.reservationmanage.resources
+C:\Users\HP\Desktop\ISTA 2\PFF RMAIDI WALID & SALAMA ABDELRANY\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.ReservationUserControl.resources
+C:\Users\HP\Desktop\ISTA 2\PFF RMAIDI WALID & SALAMA ABDELRANY\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.RestaurantUserControl.resources
+C:\Users\HP\Desktop\ISTA 2\PFF RMAIDI WALID & SALAMA ABDELRANY\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.UsersControl.SettingsUserControl.resources
+C:\Users\HP\Desktop\ISTA 2\PFF RMAIDI WALID & SALAMA ABDELRANY\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.Properties.Resources.resources
+C:\Users\HP\Desktop\ISTA 2\PFF RMAIDI WALID & SALAMA ABDELRANY\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ISTA 2\PFF RMAIDI WALID & SALAMA ABDELRANY\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ISTA 2\PFF RMAIDI WALID & SALAMA ABDELRANY\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.exe
+C:\Users\HP\Desktop\ISTA 2\PFF RMAIDI WALID & SALAMA ABDELRANY\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.pdb

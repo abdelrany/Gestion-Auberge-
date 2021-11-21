@@ -1,0 +1,14 @@
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\bin\Debug\Gestion Auberge.exe.config
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\bin\Debug\Gestion Auberge.exe
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\bin\Debug\Gestion Auberge.pdb
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\bin\Debug\Guna.UI2.dll
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Hostelia.csprojAssemblyReference.cache
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.Main.resources
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.Properties.Resources.resources
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Hostelia.csproj.GenerateResource.cache
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Hostelia.csproj.CoreCompileInputs.cache
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Hostelia.csproj.CopyComplete
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.exe
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion Auberge.pdb
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.ReservationForm.resources
+C:\Users\walid\source\repos\Gestion Auberge\Gestion Auberge\obj\Debug\Gestion_Auberge.PresentationLayer.Login_Success.resources
